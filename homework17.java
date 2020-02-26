@@ -1,7 +1,6 @@
 package word5;
 
-public class homework16 {
-    /*
+public class homework17 {
     //在一个长度为 n 的数组 nums 里的所有数字都在 0～n-1 的范围内。数组中某些数字是重复的，但不知道有几个数字重复了，也不知道每个数字重复了几次。请找出数组中任意一个重复的数字。
     public int findRepeatNumber(int[] nums) {
         int[] arr = new int[nums.length];
@@ -14,7 +13,7 @@ public class homework16 {
         return -1;
 
     }
-     */
+
 //给定一个整数数组 nums，将该数组升序排列。
     /*
     public List<Integer> sortArray(int[] nums) {
@@ -29,6 +28,6 @@ public class homework16 {
         return list;
 
     }
-    
+
      */
 }
