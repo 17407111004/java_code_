@@ -14,8 +14,9 @@ class D extends B{
         System.out.println("D.func"+num);
     }
 }
-public class BadCode {
+public class BadCode1 {
     public static void main(String[] args) {
         D d=new D();
     }
+
 }
